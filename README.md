@@ -39,16 +39,16 @@ In this project, a **full CI/CD pipeline** was implemented using **Google Cloud 
 ## 📸 Project Gallery
 
 <p align="center">
-  <img src="images/github.png" alt="GitHub Repository" width="400"/>
-  <img src="images/build.png" alt="Cloud Build Trigger" width="400"/>
+  <img src="github.png" alt="GitHub Repository" width="400"/>
+  <img src="build.png" alt="Cloud Build Trigger" width="400"/>
 </p>
 
 <p align="center">
-  <img src="images/builddetail.png" alt="Build Details Page" width="400"/>
-  <img src="images/browser.png" alt="Deployed App in Browser" width="400"/>
+  <img src="builddetail.png" alt="Build Details Page" width="400"/>
+  <img src="browser.png" alt="Deployed App in Browser" width="400"/>
 </p>
 
- *These screenshots capture the full CI/CD pipeline in action — from GitHub push to live deployment on Cloud Run.*
+*These screenshots capture the full CI/CD pipeline in action — from GitHub push to live deployment on Cloud Run.*
 
 
 
