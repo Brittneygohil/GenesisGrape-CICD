@@ -36,6 +36,5 @@ In this project, a **full CI/CD pipeline** was implemented using **Google Cloud 
 
 ---
 
-## 🐳 Dockerfile  
-```dockerfile
+
 
