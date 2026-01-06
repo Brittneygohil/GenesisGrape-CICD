@@ -16,6 +16,8 @@ def load_reviews_from_csv():
             df = pd.read_csv(REVIEWS_CSV)
             return list(df.itertuples(index=False, name=None))
         except pd.errors.EmptyDataError:
+
+
             return []
     return []
 
